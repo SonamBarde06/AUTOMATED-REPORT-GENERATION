@@ -1,11 +1,7 @@
 # AUTOMATED-REPORT-GENERATION
 COMPANY : CODTECH IT SOLUTIONS NAME : SONAM KISHOR BARDE DOMAIN : PYTHON DEVELOPER DURATION : 4 WEEKS MENTOR : NEELA SANTHOSH DESCRIPTION : AUTOMATED  REPORT  GENERATION USING LIBRARIES  LIKE FPDF OR REPORTLAB
 OUTPUT:
-
-
-
-
-
+![Image](https://github.com/user-attachments/assets/d0b6656a-f97f-4df4-974f-6aa1e641e1d3)
 DESCRIPTION:
 This project serves multiple purposes and is beneficial for various stakeholders:    
 
